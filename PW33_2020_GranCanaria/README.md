@@ -108,9 +108,14 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [Anatomical Atlases Mauritania](Projects/AnatomicalAtlasesMauritania/README.md) (Dada Lebchir, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Haythem Guermazi, Oubeida Aryan, Raia Sidi Aly, Mohamed Bamba, Yahya Abatna, Mariem Isselmou, Mohamed Aly Dedew, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badiaa Ait Ahmed, María Dolores Afonso Suárez, Juan Ruiz Alzola)
 
-### Astronomy (Yep!)
+### Non-medical Applications
+## Astronomy (Yep!)
 
 * [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo)
+
+## Ceramics and soil material characterization 
+* (Projects/Slicer_material_segment/README.md) (Nurul karim, Hans Meine)
+
 
 ### Infrastructure
 
